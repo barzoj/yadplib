@@ -1,10 +1,5 @@
 //
 //  AbstractObserver.h
-//  happiOdds
-//
-//  Created by iddqd on 8/9/13.
-//
-//
 
 #ifndef AbstractObserver_h
 #define AbstractObserver_h
@@ -28,4 +23,4 @@ namespace observer
 }
 }
 
-#endif /* defined(__happiOdds__AbstractObserver__) */
+#endif

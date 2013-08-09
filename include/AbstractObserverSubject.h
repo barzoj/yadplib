@@ -1,10 +1,5 @@
 //
 //  AbstractObserverSubject.h
-//  happiOdds
-//
-//  Created by iddqd on 8/9/13.
-//
-//
 
 #ifndef AbstractObserverSubject_h
 #define AbstractObserverSubject_h
