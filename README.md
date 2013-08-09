@@ -1,0 +1,4 @@
+yadplib
+=======
+
+software design patterns
